@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**goodspc/goodspc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Spacewe/spacewe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+公众号：共生科学
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goodspc&layout=compact)
+
+
+
+
+![Visitor Count](https://profile-counter.glitch.me/goodspc/count.svg)
+
